@@ -186,6 +186,8 @@ const
 
   uk_tryToDownloadAgain =                                                       '%uk[Щось пішло не так, спробуйте завантажити файл ще раз]uk%';
 
+  uk_tryToSyncAgain =                                                           '%uk[Щось пішло не так, спробуйте синхронізувати ще раз]uk%';
+
   uk_search =                                                                   '%uk[Пошук]uk%';
 
   uk_searchFilterCase =                                                         '%uk[З урахуванням регістру]uk%';

@@ -186,6 +186,8 @@ const
 
   ru_tryToDownloadAgain =                                                       '%ru[Что-то пошло не так, попробуйте загрузить файл ещё раз]ru%';
 
+  ru_tryToSyncAgain =                                                           '%ru[Что-то пошло не так, попробуйте синхронизировать ещё раз]ru%';
+
   ru_search =                                                                   '%ru[Поиск]ru%';
 
   ru_searchFilterCase =                                                         '%ru[С учётом регистра]ru%';

@@ -186,6 +186,8 @@ const
 
   en_tryToDownloadAgain =                                                       '%en[Something went wrong, please try downloading the file again]en%';
 
+  en_tryToSyncAgain =                                                           '%en[Something went wrong, please, try to synchronize again]en%';
+
   en_search =                                                                   '%en[Search]en%';
 
   en_searchFilterCase =                                                         '%en[Case sensitive]en%';

@@ -186,6 +186,8 @@ const
 
   kk_tryToDownloadAgain =                                                       '%kk[Бір нәрсе дұрыс болмады, файлды қайта жүктеп көріңіз]kk%';
 
+  kk_tryToSyncAgain =                                                           '%kk[Бір нәрсе дұрыс болмады, қайтадан синхрондауды көріңіз]kk%';
+
   kk_search =                                                                   '%kk[Іздеу]kk%';
 
   kk_searchFilterCase =                                                         '%kk[Регистрді ескеру]kk%';
