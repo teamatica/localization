@@ -452,6 +452,8 @@ const
 
   ru_wizardCorporateSiteHint =                                                  '%ru[Введите адрес сайта]ru%';
 
+  ru_wizardDemo =                                                               '%ru[Демонстрационный режим]ru%';
+
   ru_wizardOperatorIdentifier =                                                 '%ru[Идентификатор оператора]ru%';
 
   ru_wizardOperatorIdentifierHint =                                             '%ru[Введите SID учётной записи оператора]ru%';

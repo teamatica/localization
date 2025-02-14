@@ -452,6 +452,8 @@ const
 
   uk_wizardCorporateSiteHint =                                                  '%uk[Введіть адресу сайту]uk%';
 
+  uk_wizardDemo =                                                               '%uk[Демонстраційний режим]uk%';
+
   uk_wizardOperatorIdentifier =                                                 '%uk[Ідентифікатор оператора]uk%';
 
   uk_wizardOperatorIdentifierHint =                                             '%uk[Введіть SID облікового запису оператора]uk%';

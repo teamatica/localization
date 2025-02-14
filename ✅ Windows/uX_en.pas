@@ -452,6 +452,8 @@ const
 
   en_wizardCorporateSiteHint =                                                  '%en[Enter website address]en%';
 
+  en_wizardDemo =                                                               '%en[Demo mode]en%';
+
   en_wizardOperatorIdentifier =                                                 '%en[Operator identifier]en%';
 
   en_wizardOperatorIdentifierHint =                                             '%en[Enter operator account SID]en%';

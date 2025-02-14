@@ -452,6 +452,8 @@ const
 
   kk_wizardCorporateSiteHint =                                                  '%kk[Сайт мекенжайын енгізіңіз]kk%';
 
+  kk_wizardDemo =                                                               '%kk[Демонстрациялық режим]kk%';
+
   kk_wizardOperatorIdentifier =                                                 '%kk[Оператор идентификаторы]kk%';
 
   kk_wizardOperatorIdentifierHint =                                             '%kk[Оператор тіркелгісінің SID енгізіңіз]kk%';
