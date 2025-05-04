@@ -168,7 +168,7 @@ const
 
   en_versionNotFound =                                                          '%en[Version not found]en%';
 
-  en_updateRequired =                                                           '%en[This version is outdated — please download the update from the official website teamatica.org or Microsoft Store]en%';
+  en_updateRequired =                                                           '%en[This version is outdated — please download the update from the official website teamatica.org]en%';
 
   en_noUpdateRequired =                                                         '%en[No update required]en%';
 
@@ -486,7 +486,7 @@ const
                                                                                 sLineBreak +
                                                                                 '<b>TECHNICAL LIMITATIONS</b>' + sLineBreak +
                                                                                 sLineBreak +
-                                                                                'The application is available completely free on the official website <b>teamatica.org</b> and in the <b>Microsoft Store</b> — do not use the application from other sources and/or without a valid digital signature.' + sLineBreak +
+                                                                                'The application is available completely free on the official website <b>teamatica.org</b> — do not use the application from other sources and/or without a valid digital signature.' + sLineBreak +
                                                                                 sLineBreak +
                                                                                 'After starting the setup, you cannot change the website address: i.e., if it is someone else''s or incorrect, you should immediately abort the process and start over, specifying the correct address. Note that moving to a website with a different name, complete loss of control over the website, and basically anything that entails changing the URL makes data created under another URL unreadable.' + sLineBreak +
                                                                                 sLineBreak +
@@ -495,9 +495,9 @@ const
                                                                                 sLineBreak +
                                                                                 'The application requires an operator — a careful and responsible employee who will have two additional duties added to their existing job responsibilities:' + sLineBreak +
                                                                                 sLineBreak +
-                                                                                '<c=$00000000>  1.</c>  Collecting written consent from each employee for the employer''s use (collection, processing, and storage) of personal data: such a document is usually signed during the hiring process, and if it hasn''t been signed yet, that''s where you should start (to avoid legal problems and/or conflict situations, it is not recommended to add an employee''s account to the application without their written consent for the use of their personal data).' + sLineBreak +
+                                                                                '<c=$001E1EE6>  1</c>  Collecting written consent from each employee for the employer''s use (collection, processing, and storage) of personal data: such a document is usually signed during the hiring process, and if it hasn''t been signed yet, that''s where you should start (to avoid legal problems and/or conflict situations, it is not recommended to add an employee''s account to the application without their written consent for the use of their personal data).' + sLineBreak +
                                                                                 sLineBreak +
-                                                                                '<c=$00000000>  2.</c>  Monitoring personnel changes and appointments: adding new accounts to the database, editing changed ones, and removing outdated ones.' + sLineBreak +
+                                                                                '<c=$001E1EE6>  2</c>  Monitoring personnel changes and appointments: adding new accounts to the database, editing changed ones, and removing outdated ones.' + sLineBreak +
                                                                                 sLineBreak +
                                                                                 'The application works on the principle of "one website = one organization", with only one employee being able to be the organization''s operator (for example, an HR specialist, or office manager, or secretary). Essentially, your participation as an administrator comes down to just the initial setup and editing operator data (if they change), everything else can be handled without your help (of course, provided that the website is in perfect order).' + sLineBreak +
                                                                                 sLineBreak +
@@ -571,7 +571,7 @@ const
                                                                                 sLineBreak +
                                                                                 '<c=$00FF9B37>  ●</c>  Carefully verify all personal data uploaded to the application' + sLineBreak +
                                                                                 sLineBreak +
-                                                                                '<c=$00FF9B37>  ●</c>  To protect data and minimize virus infection risks, only use the official application with a valid digital signature — from <b>teamatica.org</b> website and/or <b>Microsoft Store</b>' + sLineBreak +
+                                                                                '<c=$00FF9B37>  ●</c>  To protect data and minimize virus infection risks, only use the official application with a valid digital signature — from <b>teamatica.org</b> website' + sLineBreak +
                                                                                 sLineBreak +
                                                                                 '<c=$00FF9B37>  ●</c>  Lock or close the application if you temporarily leave your workplace, leave the device unattended and/or hand it over to others' + sLineBreak +
                                                                                 sLineBreak +
@@ -638,7 +638,7 @@ const
                                                                                 'This application provides simple and convenient access to your and others'' personal data — please strictly follow the rules listed below when working with it:' + sLineBreak +
                                                                                 sLineBreak +
                                                                                 sLineBreak +
-                                                                                '<c=$00FF9B37>  ●</c>  To protect data and minimize virus infection risks, only use the official application with a valid digital signature — from <b>teamatica.org</b> website and/or <b>Microsoft Store</b>' + sLineBreak +
+                                                                                '<c=$00FF9B37>  ●</c>  To protect data and minimize virus infection risks, only use the official application with a valid digital signature — from <b>teamatica.org</b> website' + sLineBreak +
                                                                                 sLineBreak +
                                                                                 '<c=$00FF9B37>  ●</c>  Lock or close the application if you temporarily leave your workplace, leave the device unattended and/or hand it over to others' + sLineBreak +
                                                                                 sLineBreak +
