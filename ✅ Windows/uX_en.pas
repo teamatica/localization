@@ -387,7 +387,7 @@ const
                                                                                 '🟡 This data should be known only to you — please never disclose it to anyone, even if colleagues, management and/or outsiders ask for it, presenting themselves as "operators", "administrators", "developers" and/or "support specialists"' + sLineBreak +
                                                                                 '' + sLineBreak +
                                                                                 '' + sLineBreak +
-                                                                                '🟢 At the moment, the application is only available on the official website https://teamatica.org]en%';
+                                                                                '🟢 The application is currently available on the Microsoft Store and on the official website https://teamatica.org]en%';
 
 //wizard////////////////////////////////////////////////////////////////////////
 
