@@ -110,14 +110,6 @@ const
 
   en_comment52 =                                                                '%en[sending archive update]en%';
 
-//stores////////////////////////////////////////////////////////////////////////
-
-  en_apple =                                                                    '%en[https://apps.apple.com]en%';
-
-  en_google =                                                                   '%en[https://play.google.com]en%';
-
-  en_microsoft =                                                                '%en[https://apps.microsoft.com]en%';
-
 //common////////////////////////////////////////////////////////////////////////
 
   en_error =                                                                    '%en[Error]en%';
@@ -387,7 +379,10 @@ const
                                                                                 '🟡 This data should be known only to you — please never disclose it to anyone, even if colleagues, management and/or outsiders ask for it, presenting themselves as "operators", "administrators", "developers" and/or "support specialists"' + sLineBreak +
                                                                                 '' + sLineBreak +
                                                                                 '' + sLineBreak +
-                                                                                '🟢 The application is currently available on the Microsoft Store and on the official website https://teamatica.org]en%';
+                                                                                '🟢 The Teamatica application is available at %5 and in the Microsoft Store' + sLineBreak +
+                                                                                '' + sLineBreak +
+                                                                                '' + sLineBreak +
+                                                                                '🟣 Step-by-step video tutorial with subtitles: %6]en%';
 
 //wizard////////////////////////////////////////////////////////////////////////
 
