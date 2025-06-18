@@ -28,87 +28,91 @@ const
 
   en_comment11 =                                                                '%en[redirecting to main]en%';
 
-  en_comment12 =                                                                '%en[checking operator data]en%';
+  en_comment12 =                                                                '%en[reading key set]en%';
 
-  en_comment13 =                                                                '%en[checking for files]en%';
+  en_comment13 =                                                                '%en[getting current version]en%';
 
-  en_comment14 =                                                                '%en[recounting incoming files]en%';
+  en_comment14 =                                                                '%en[checking operator data]en%';
 
-  en_comment15 =                                                                '%en[checking number of files]en%';
+  en_comment15 =                                                                '%en[checking for files]en%';
 
-  en_comment16 =                                                                '%en[starting new cycle]en%';
+  en_comment16 =                                                                '%en[recounting incoming files]en%';
 
-  en_comment17 =                                                                '%en[extracting filename]en%';
+  en_comment17 =                                                                '%en[checking number of files]en%';
 
-  en_comment18 =                                                                '%en[extracting file extension]en%';
+  en_comment18 =                                                                '%en[starting new cycle]en%';
 
-  en_comment19 =                                                                '%en[checking file extension]en%';
+  en_comment19 =                                                                '%en[extracting filename]en%';
 
-  en_comment20 =                                                                '%en[checking file size]en%';
+  en_comment20 =                                                                '%en[extracting file extension]en%';
 
-  en_comment21 =                                                                '%en[checking write permission]en%';
+  en_comment21 =                                                                '%en[checking file extension]en%';
 
-  en_comment22 =                                                                '%en[checking message count]en%';
+  en_comment22 =                                                                '%en[checking file size]en%';
 
-  en_comment23 =                                                                '%en[checking move result]en%';
+  en_comment23 =                                                                '%en[checking write permission]en%';
 
-  en_comment24 =                                                                '%en[creating required path]en%';
+  en_comment24 =                                                                '%en[checking message count]en%';
 
-  en_comment25 =                                                                '%en[checking backups]en%';
+  en_comment25 =                                                                '%en[checking move result]en%';
 
-  en_comment26 =                                                                '%en[hiding backups]en%';
+  en_comment26 =                                                                '%en[creating required path]en%';
 
-  en_comment27 =                                                                '%en[matching incoming files]en%';
+  en_comment27 =                                                                '%en[checking backups]en%';
 
-  en_comment28 =                                                                '%en[hiding archive file]en%';
+  en_comment28 =                                                                '%en[hiding backups]en%';
 
-  en_comment29 =                                                                '%en[hiding version file]en%';
+  en_comment29 =                                                                '%en[matching incoming files]en%';
 
-  en_comment30 =                                                                '%en[hiding list file]en%';
+  en_comment30 =                                                                '%en[hiding archive file]en%';
 
-  en_comment31 =                                                                '%en[iterating through existing messages]en%';
+  en_comment31 =                                                                '%en[hiding version file]en%';
 
-  en_comment32 =                                                                '%en[reading key set]en%';
+  en_comment32 =                                                                '%en[hiding list file]en%';
 
-  en_comment33 =                                                                '%en[getting current version]en%';
+  en_comment33 =                                                                '%en[iterating through existing messages]en%';
 
-  en_comment34 =                                                                '%en[comparing key set]en%';
+  en_comment34 =                                                                en_comment12;
 
-  en_comment35 =                                                                '%en[checking visitor role]en%';
+  en_comment35 =                                                                en_comment13;
 
-  en_comment36 =                                                                '%en[checking version existence]en%';
+  en_comment36 =                                                                '%en[comparing key set]en%';
 
-  en_comment37 =                                                                '%en[checking list existence]en%';
+  en_comment37 =                                                                '%en[checking visitor role]en%';
 
-  en_comment38 =                                                                '%en[checking archive existence]en%';
+  en_comment38 =                                                                '%en[checking version existence]en%';
 
-  en_comment39 =                                                                '%en[checking authorization data]en%';
+  en_comment39 =                                                                '%en[checking list existence]en%';
 
-  en_comment40 =                                                                '%en[checking version existence]en%';
+  en_comment40 =                                                                '%en[checking archive existence]en%';
 
-  en_comment41 =                                                                '%en[getting archive version]en%';
+  en_comment41 =                                                                '%en[checking authorization data]en%';
 
-  en_comment42 =                                                                '%en[comparing archive versions]en%';
+  en_comment42 =                                                                '%en[checking version existence]en%';
 
-  en_comment43 =                                                                '%en[checking key value]en%';
+  en_comment43 =                                                                '%en[getting archive version]en%';
 
-  en_comment44 =                                                                '%en[assigning operator key]en%';
+  en_comment44 =                                                                '%en[comparing archive versions]en%';
 
-  en_comment45 =                                                                '%en[checking list existence]en%';
+  en_comment45 =                                                                '%en[checking key value]en%';
 
-  en_comment46 =                                                                '%en[loading list content]en%';
+  en_comment46 =                                                                '%en[assigning operator key]en%';
 
-  en_comment47 =                                                                '%en[checking string existence]en%';
+  en_comment47 =                                                                '%en[checking list existence]en%';
 
-  en_comment48 =                                                                '%en[finding required string]en%';
+  en_comment48 =                                                                '%en[loading list content]en%';
 
-  en_comment49 =                                                                '%en[authorizing by password]en%';
+  en_comment49 =                                                                '%en[checking string existence]en%';
 
-  en_comment50 =                                                                '%en[checking archive existence]en%';
+  en_comment50 =                                                                '%en[finding required string]en%';
 
-  en_comment51 =                                                                '%en[preparing archive update...]en%';
+  en_comment51 =                                                                '%en[authorizing by password]en%';
 
-  en_comment52 =                                                                '%en[sending archive update]en%';
+  en_comment52 =                                                                '%en[checking archive existence]en%';
+
+  en_comment53 =                                                                '%en[preparing archive update...]en%';
+
+  en_comment54 =                                                                '%en[sending archive update]en%';
 
 //common////////////////////////////////////////////////////////////////////////
 
@@ -160,7 +164,7 @@ const
 
   en_versionNotFound =                                                          '%en[Version not found]en%';
 
-  en_updateRequired =                                                           '%en[This version is outdated — please download the update from the official website teamatica.org]en%';
+  en_updateRequired =                                                           '%en[The client version does not match the server version — please make sure you are using the latest versions or contact your system administrator]en%';
 
   en_noUpdateRequired =                                                         '%en[No update required]en%';
 
