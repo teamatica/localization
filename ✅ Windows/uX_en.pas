@@ -653,8 +653,6 @@ const
                                                                                 sLineBreak +
                                                                                 '<c=$00FF9B37>  ●</c>  Don''t log into the application on other people''s devices to avoid account compromise' + sLineBreak +
                                                                                 sLineBreak +
-                                                                                '<c=$00FF9B37>  ●</c>  When leaving your job, inform the operator so they can promptly destroy your account' + sLineBreak +
-                                                                                sLineBreak +
                                                                                 '<c=$00FF9B37>  ●</c>  Remove your profile (this can be done in application settings and/or maintenance mode) if you are disposing of the device permanently and/or sending it for repair' + sLineBreak +
                                                                                 sLineBreak +
                                                                                 sLineBreak +
